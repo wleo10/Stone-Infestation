@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 101,
+    "supported_formats": 101,
+    "description": "Infested stones can now be crafted with glow lichen!",
+    "min_format": [48, 0],
+    "max_format": [101, 1]
+  }
+}

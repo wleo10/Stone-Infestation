@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " s ",
+    "sgs",
+    " s "
+  ],
+  "key": {
+    "s": [
+      "string"
+    ],
+    "g": "minecraft:glow_ink_sac"
+  },
+  "result": {
+    "id": "minecraft:glow_lichen",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "sss",
+    "sgs",
+    "sss"
+  ],
+  "key": {
+    "s": [
+      "cobblestone"
+    ],
+    "g": "minecraft:glow_lichen"
+  },
+  "result": {
+    "id": "minecraft:infested_cobblestone",
+    "count": 8
+  }
+}

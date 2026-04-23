@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "sss",
+    "sgs",
+    "sss"
+  ],
+  "key": {
+    "s": [
+      "stone_bricks"
+    ],
+    "g": "minecraft:glow_lichen"
+  },
+  "result": {
+    "id": "minecraft:infested_stone_bricks",
+    "count": 8
+  }
+}
